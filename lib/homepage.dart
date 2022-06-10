@@ -136,6 +136,14 @@ class HomePage extends StatelessWidget {
                           color: Colors.red,
                         ),
                       ),
+                      IconButton(
+                        onPressed: () {},
+                        icon: Icon(
+                          Icons.bubble_chart_outlined,
+                          size: 30,
+                          color: Colors.red,
+                        ),
+                      ),
                     ],
                   ),
                 ],
